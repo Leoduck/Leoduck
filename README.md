@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Leo</h1>
-<h3 align="center">I'm a Computer scientist who loves on working on puzzling challenges both within code-bases, as well as in my free time!</h3>
+<h3 align="center">I'm a Computer scientist who loves working on puzzling challenges both within codebases, as well as in my free time!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoduck&show_icons=true&locale=en&layout=compact" alt="leoduck" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoduck&show_icons=true&locale=en" alt="leoduck" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoduck&hide_rank=true&show_icons=true&locale=en" alt="leoduck" /></p>
 
